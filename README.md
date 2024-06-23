@@ -26,6 +26,8 @@ The Employee Payroll Tracker is a web application that allows users to input emp
 
 ## Link to Deployed Application
 
+ https://dosanjhkiran.github.io/Employee-payroll-tracker/
+
 [Employee Payroll Tracker](http://127.0.0.1:5500/Develop/index.html)
 
 ## Code Structure
